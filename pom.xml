@@ -2,16 +2,12 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
-    <!-- Project details -->
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.currencyconverterapp</groupId>
     <artifactId>currency-converter</artifactId>
     <version>1.0.0</version>
 
-    <!-- Dependencies -->
     <dependencies>
-        <!-- Add your dependencies here -->
-        <!-- Example: JUnit for testing -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -20,11 +16,8 @@
         </dependency>
     </dependencies>
 
-    <!-- Build settings -->
     <build>
         <plugins>
-            <!-- Add your plugins here -->
-            <!-- Example: Maven Compiler Plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
