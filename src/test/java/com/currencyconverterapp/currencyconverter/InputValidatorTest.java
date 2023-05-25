@@ -1,4 +1,4 @@
 package com.currencyconverterapp.currencyconverter;
 
-public class CurrencyConverterApp {
+public class InputValidatorTest {
 }
